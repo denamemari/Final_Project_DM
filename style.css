@@ -1,0 +1,26 @@
+.navbar navbar-light bg-light {
+  position: fixed;
+  width: 100%;
+  background-color: blanchedalmond;
+}
+.card mb-2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.currentCity {
+  text-align: center;
+  padding-top: 20px;
+}
+.fas fa-sun {
+  display: block;
+  margin: 0 auto;
+}
+.card mb-2 {
+  display: flex;
+}
+body {
+  background-color: #e4fbff;
+}
